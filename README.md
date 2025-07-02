@@ -1,6 +1,6 @@
 # ☠ SIGMA CYBER TRACKER ☠
 
-A powerful hacking-themed GPS and IMEI tracking tool with visualization capabilities, designed for ethical hacking and cybersecurity research.
+A powerful hacking-themed GPS and IMEI tracking tool with visualization capabilities, designed for black hat hacking and cybersecurity research.
 
 ## Features
 
