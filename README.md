@@ -22,4 +22,4 @@ A powerful hacking-themed GPS and IMEI tracking tool with visualization capabili
 
 
 pip install -r requirements.txt
-python3 sigma_tracker.py
+python3 sigma_imei_tracking.py
