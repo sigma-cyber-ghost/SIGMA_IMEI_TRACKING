@@ -19,7 +19,7 @@ A powerful hacking-themed GPS and IMEI tracking tool with visualization capabili
 - pip package manager
 
 ### Install dependencies
-
-
+https://github.com/sigma-cyber-ghost/SIGMA_IMEI_TRACKING.git
+cd SIGMA_IMEI_TRACKING
 pip install -r requirements.txt
 python3 sigma_imei_tracking.py
