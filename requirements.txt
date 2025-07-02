@@ -1,0 +1,1 @@
+pip install tkinter folium requests geocoder phonenumbers webbrowser
