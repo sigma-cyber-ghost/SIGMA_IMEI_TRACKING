@@ -19,4 +19,7 @@ A powerful hacking-themed GPS and IMEI tracking tool with visualization capabili
 - pip package manager
 
 ### Install dependencies
+
+
 pip install -r requirements.txt
+python3 sigma_tracker.py
